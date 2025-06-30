@@ -1,0 +1,77 @@
+{
+  "name": "mcp-weather",
+  "instructions": null,
+  "fastmcp_version": "2.9.2",
+  "mcp_version": "1.9.4",
+  "server_version": "2.9.2",
+  "tools": [
+    {
+      "key": "get_current_weather",
+      "name": "get_current_weather",
+      "description": "Ambil cuaca saat ini (metric) untuk kota tertentu",
+      "input_schema": {
+        "properties": {
+          "city": {
+            "title": "City",
+            "type": "string"
+          }
+        },
+        "required": [
+          "city"
+        ],
+        "type": "object"
+      },
+      "annotations": null,
+      "tags": null,
+      "enabled": true
+    },
+    {
+      "key": "get_5day_forecast",
+      "name": "get_5day_forecast",
+      "description": "Ambil prakiraan cuaca 5 hari tiap 3 jam untuk kota tertentu",
+      "input_schema": {
+        "properties": {
+          "city": {
+            "title": "City",
+            "type": "string"
+          }
+        },
+        "required": [
+          "city"
+        ],
+        "type": "object"
+      },
+      "annotations": null,
+      "tags": null,
+      "enabled": true
+    },
+    {
+      "key": "health_check",
+      "name": "health_check",
+      "description": "Cek status server",
+      "input_schema": {
+        "properties": {},
+        "type": "object"
+      },
+      "annotations": null,
+      "tags": null,
+      "enabled": true
+    }
+  ],
+  "prompts": [],
+  "resources": [],
+  "templates": [],
+  "capabilities": {
+    "tools": {
+      "listChanged": true
+    },
+    "resources": {
+      "subscribe": false,
+      "listChanged": false
+    },
+    "prompts": {
+      "listChanged": false
+    },
+    "logging": {}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/Users/macbook/miniconda3/envs/binar/bin/python",
+      "args": ["/Users/macbook/Documents/projects/mcp_server/weather_fixed.py"],
+      "cwd": "/Users/macbook/Documents/projects/mcp_server",
+      "env": {
+        "OWM_API_KEY": "api key open weather"
+      }
+    }
+  }
+}

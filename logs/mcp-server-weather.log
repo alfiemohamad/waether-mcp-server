@@ -1,0 +1,154 @@
+2025-06-30T06:11:45.990Z [weather] [info] Initializing server... { metadata: undefined }
+2025-06-30T06:11:45.997Z [weather] [info] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  metadata: {
+    args: [
+      '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+      [length]: 1
+    ],
+    paths: [
+      '/usr/local/bin',
+      '/opt/homebrew/bin',
+      '/usr/bin',
+      '/usr/bin',
+      '/bin',
+      '/usr/sbin',
+      '/sbin',
+      [length]: 7
+    ]
+  }
+} %o
+2025-06-30T06:11:45.999Z [weather] [info] Server started and connected successfully { metadata: undefined }
+2025-06-30T06:11:46.000Z [weather] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+Starting Weather MCP Server...
+API key test successful
+2025-06-30T06:11:46.780Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":0,"result":{"protocolVersion":"2024-11-05","capabilities":{"experimental":{},"tools":{"listChanged":false}},"serverInfo":{"name":"weather-server","version":"1.9.4"}}} { metadata: undefined }
+2025-06-30T06:11:46.781Z [weather] [info] Message from client: {"method":"notifications/initialized","jsonrpc":"2.0"} { metadata: undefined }
+2025-06-30T06:11:46.782Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":1} { metadata: undefined }
+2025-06-30T06:11:46.782Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":2} { metadata: undefined }
+2025-06-30T06:11:46.782Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":3} { metadata: undefined }
+2025-06-30T06:11:46.784Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":1,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:11:46.786Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":2,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:11:46.788Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":3,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:11:46.789Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":4} { metadata: undefined }
+2025-06-30T06:11:46.790Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":4,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:11:48.855Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":5} { metadata: undefined }
+2025-06-30T06:11:48.855Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":6} { metadata: undefined }
+2025-06-30T06:11:48.855Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":7} { metadata: undefined }
+2025-06-30T06:11:48.857Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":5,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:11:48.857Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":6,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:11:48.858Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":7,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:11:48.894Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":8} { metadata: undefined }
+2025-06-30T06:11:48.903Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":8,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:12:22.229Z [weather] [info] Message from client: {"method":"tools/call","params":{"name":"get_current_weather","arguments":{"city":"Bogor"}},"jsonrpc":"2.0","id":9} { metadata: undefined }
+Getting current weather for: Bogor
+2025-06-30T06:12:22.273Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":10} { metadata: undefined }
+2025-06-30T06:12:22.273Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":11} { metadata: undefined }
+2025-06-30T06:12:22.273Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":12} { metadata: undefined }
+2025-06-30T06:12:22.275Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":10,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:12:22.276Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":11,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:12:22.276Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":12,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:12:22.307Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":13} { metadata: undefined }
+2025-06-30T06:12:22.312Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":13,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:12:22.354Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":9,"result":{"content":[{"type":"text","text":"Current Weather in Bogor, ID:\n• Temperature: 30.14°C (feels like 34.19°C)\n• Condition: Broken Clouds\n• Humidity: 65%\n• Pressure: 1009 hPa\n• Wind Speed: 3.07 m/s\n• Visibility: 10.0 km"}],"isError":false}} { metadata: undefined }
+2025-06-30T06:13:01.387Z [weather] [info] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Bogor"}},"jsonrpc":"2.0","id":14} { metadata: undefined }
+Getting forecast for: Bogor
+2025-06-30T06:13:01.424Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":15} { metadata: undefined }
+2025-06-30T06:13:01.424Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":16} { metadata: undefined }
+2025-06-30T06:13:01.424Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":17} { metadata: undefined }
+2025-06-30T06:13:01.426Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":15,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:13:01.426Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":16,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:13:01.426Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":17,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:13:01.444Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":18} { metadata: undefined }
+2025-06-30T06:13:01.445Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":18,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:13:01.528Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":14,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Bogor, ID:\n\n• 2025-06-30 09:00:00: 30.3°C, Light Rain, Humidity: 69%\n• 2025-06-30 12:00:00: 29.07°C, Light Rain, Humidity: 84%\n• 2025-06-30 15:00:00: 27.51°C, Light Rain, Humidity: 94%\n• 2025-06-30 18:00:00: 26.92°C, Light Rain, Humidity: 93%\n• 2025-06-30 21:00:00: 27.03°C, Overcast Clouds, Humidity: 91%\n• 2025-07-01 00:00:00: 28.95°C, Overcast Clouds, Humidity: 88%\n• 2025-07-01 03:00:00: 25.77°C, Overcast Clouds, Humidity: 79%\n• 2025-07-01 06:00:00: 28.37°C, Light Rain, Humidity: 69%\n• 2025-07-01 09:00:00: 27.27°C, Light Rain, Humidity: 77%\n• 2025-07-01 12:00:00: 24.53°C, Light Rain, Humidity: 90%\n• 2025-07-01 15:00:00: 23.76°C, Light Rain, Humidity: 93%\n• 2025-07-01 18:00:00: 23.44°C, Light Rain, Humidity: 93%\n• 2025-07-01 21:00:00: 23.56°C, Overcast Clouds, Humidity: 90%\n• 2025-07-02 00:00:00: 24.25°C, Overcast Clouds, Humidity: 87%\n• 2025-07-02 03:00:00: 28.14°C, Overcast Clouds, Humidity: 71%\n• 2025-07-02 06:00:00: 30.13°C, Light Rain, Humidity: 63%\n• 2025-07-02 09:00:00: 28.07°C, Moderate Rain, Humidity: 74%\n• 2025-07-02 12:00:00: 25.13°C, Light Rain, Humidity: 91%\n• 2025-07-02 15:00:00: 24.47°C, Light Rain, Humidity: 94%\n• 2025-07-02 18:00:00: 23.51°C, Overcast Clouds, Humidity: 95%\n"}],"isError":false}} { metadata: undefined }
+2025-06-30T06:17:08.824Z [weather] [info] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Jombang"}},"jsonrpc":"2.0","id":19} { metadata: undefined }
+Getting forecast for: Jombang
+2025-06-30T06:17:09.011Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":19,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Jombang, ID:\n\n• 2025-06-30 09:00:00: 30.94°C, Light Rain, Humidity: 66%\n• 2025-06-30 12:00:00: 29°C, Broken Clouds, Humidity: 79%\n• 2025-06-30 15:00:00: 26.44°C, Overcast Clouds, Humidity: 90%\n• 2025-06-30 18:00:00: 25.28°C, Overcast Clouds, Humidity: 91%\n• 2025-06-30 21:00:00: 25.53°C, Broken Clouds, Humidity: 91%\n• 2025-07-01 00:00:00: 26.9°C, Broken Clouds, Humidity: 84%\n• 2025-07-01 03:00:00: 29.67°C, Few Clouds, Humidity: 63%\n• 2025-07-01 06:00:00: 31.83°C, Few Clouds, Humidity: 53%\n• 2025-07-01 09:00:00: 28.61°C, Light Rain, Humidity: 69%\n• 2025-07-01 12:00:00: 24.66°C, Light Rain, Humidity: 89%\n• 2025-07-01 15:00:00: 23.62°C, Overcast Clouds, Humidity: 93%\n• 2025-07-01 18:00:00: 23.17°C, Overcast Clouds, Humidity: 92%\n• 2025-07-01 21:00:00: 22.69°C, Broken Clouds, Humidity: 91%\n• 2025-07-02 00:00:00: 24.44°C, Broken Clouds, Humidity: 85%\n• 2025-07-02 03:00:00: 30.03°C, Few Clouds, Humidity: 63%\n• 2025-07-02 06:00:00: 31.97°C, Light Rain, Humidity: 55%\n• 2025-07-02 09:00:00: 27.73°C, Light Rain, Humidity: 79%\n• 2025-07-02 12:00:00: 24.68°C, Light Rain, Humidity: 91%\n• 2025-07-02 15:00:00: 23.84°C, Overcast Clouds, Humidity: 94%\n• 2025-07-02 18:00:00: 23.18°C, Overcast Clouds, Humidity: 93%\n"}],"isError":false}} { metadata: undefined }
+2025-06-30T06:21:08.074Z [weather] [info] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Salatiga"}},"jsonrpc":"2.0","id":20} { metadata: undefined }
+Getting forecast for: Salatiga
+2025-06-30T06:21:08.208Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":20,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Salatiga, ID:\n\n• 2025-06-30 09:00:00: 28.19°C, Light Rain, Humidity: 67%\n• 2025-06-30 12:00:00: 26.7°C, Broken Clouds, Humidity: 80%\n• 2025-06-30 15:00:00: 25.13°C, Scattered Clouds, Humidity: 91%\n• 2025-06-30 18:00:00: 24.39°C, Scattered Clouds, Humidity: 95%\n• 2025-06-30 21:00:00: 24.59°C, Scattered Clouds, Humidity: 93%\n• 2025-07-01 00:00:00: 26.21°C, Scattered Clouds, Humidity: 82%\n• 2025-07-01 03:00:00: 27.96°C, Clear Sky, Humidity: 57%\n• 2025-07-01 06:00:00: 27.81°C, Light Rain, Humidity: 62%\n• 2025-07-01 09:00:00: 25.64°C, Light Rain, Humidity: 77%\n• 2025-07-01 12:00:00: 21.97°C, Light Rain, Humidity: 91%\n• 2025-07-01 15:00:00: 21.41°C, Light Rain, Humidity: 92%\n• 2025-07-01 18:00:00: 21.12°C, Overcast Clouds, Humidity: 95%\n• 2025-07-01 21:00:00: 20.78°C, Overcast Clouds, Humidity: 96%\n• 2025-07-02 00:00:00: 22.42°C, Overcast Clouds, Humidity: 91%\n• 2025-07-02 03:00:00: 27.54°C, Light Rain, Humidity: 67%\n• 2025-07-02 06:00:00: 26.9°C, Light Rain, Humidity: 75%\n• 2025-07-02 09:00:00: 24.49°C, Moderate Rain, Humidity: 90%\n• 2025-07-02 12:00:00: 21.58°C, Moderate Rain, Humidity: 96%\n• 2025-07-02 15:00:00: 21.45°C, Broken Clouds, Humidity: 94%\n• 2025-07-02 18:00:00: 20.77°C, Overcast Clouds, Humidity: 95%\n"}],"isError":false}} { metadata: undefined }
+2025-06-30T06:23:01.396Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":21} { metadata: undefined }
+2025-06-30T06:23:01.407Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":21,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:23:01.465Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":22} { metadata: undefined }
+2025-06-30T06:23:01.470Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":22,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:24:53.894Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:24:53.896Z [weather] [info] Server transport closed { metadata: undefined }
+2025-06-30T06:24:53.896Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:24:53.896Z [weather] [info] Server transport closed (intentional shutdown) { metadata: undefined }
+2025-06-30T06:24:53.896Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:24:53.894Z [weather] [info] Shutting down server... { metadata: undefined }
+2025-06-30T06:24:54.002Z [weather] [info] Server transport closed { metadata: undefined }
+2025-06-30T06:24:54.002Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:24:57.302Z [weather] [info] Initializing server... { metadata: undefined }
+2025-06-30T06:24:57.308Z [weather] [info] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  metadata: {
+    args: [
+      '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+      [length]: 1
+    ],
+    paths: [
+      '/usr/local/bin',
+      '/opt/homebrew/bin',
+      '/usr/bin',
+      '/usr/bin',
+      '/bin',
+      '/usr/sbin',
+      '/sbin',
+      [length]: 7
+    ]
+  }
+} %o
+2025-06-30T06:24:57.309Z [weather] [info] Server started and connected successfully { metadata: undefined }
+2025-06-30T06:24:57.310Z [weather] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+ERROR: OWM_API_KEY environment variable is not set
+2025-06-30T06:24:57.966Z [weather] [info] Server transport closed { metadata: undefined }
+2025-06-30T06:24:57.966Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:24:57.967Z [weather] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-30T06:24:57.967Z [weather] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-30T06:24:57.967Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:26:03.706Z [weather] [info] Client transport closed { metadata: undefined }
+2025-06-30T06:26:03.705Z [weather] [info] Shutting down server... { metadata: undefined }
+2025-06-30T06:26:06.836Z [weather] [info] Initializing server... { metadata: undefined }
+2025-06-30T06:26:06.841Z [weather] [info] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  metadata: {
+    args: [
+      '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+      [length]: 1
+    ],
+    paths: [
+      '/usr/local/bin',
+      '/opt/homebrew/bin',
+      '/usr/bin',
+      '/usr/bin',
+      '/bin',
+      '/usr/sbin',
+      '/sbin',
+      [length]: 7
+    ]
+  }
+} %o
+2025-06-30T06:26:06.843Z [weather] [info] Server started and connected successfully { metadata: undefined }
+2025-06-30T06:26:06.844Z [weather] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+Starting Weather MCP Server...
+API key test successful
+2025-06-30T06:26:07.563Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":0,"result":{"protocolVersion":"2024-11-05","capabilities":{"experimental":{},"tools":{"listChanged":false}},"serverInfo":{"name":"weather-server","version":"1.9.4"}}} { metadata: undefined }
+2025-06-30T06:26:07.564Z [weather] [info] Message from client: {"method":"notifications/initialized","jsonrpc":"2.0"} { metadata: undefined }
+2025-06-30T06:26:07.566Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":1} { metadata: undefined }
+2025-06-30T06:26:07.566Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":2} { metadata: undefined }
+2025-06-30T06:26:07.566Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":3} { metadata: undefined }
+2025-06-30T06:26:07.568Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":1,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:26:07.568Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":2,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:26:07.568Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":3,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:26:07.570Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":4} { metadata: undefined }
+2025-06-30T06:26:07.571Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":4,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:26:08.350Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":5} { metadata: undefined }
+2025-06-30T06:26:08.350Z [weather] [info] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":6} { metadata: undefined }
+2025-06-30T06:26:08.350Z [weather] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":7} { metadata: undefined }
+2025-06-30T06:26:08.352Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":5,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:26:08.352Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":6,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}} { metadata: undefined }
+2025-06-30T06:26:08.353Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":7,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:26:08.395Z [weather] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":8} { metadata: undefined }
+2025-06-30T06:26:08.411Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":8,"error":{"code":-32601,"message":"Method not found"}} { metadata: undefined }
+2025-06-30T06:26:20.423Z [weather] [info] Message from client: {"method":"tools/call","params":{"name":"get_current_weather","arguments":{"city":"Jakarta"}},"jsonrpc":"2.0","id":9} { metadata: undefined }
+Getting current weather for: Jakarta
+2025-06-30T06:26:20.495Z [weather] [info] Message from server: {"jsonrpc":"2.0","id":9,"result":{"content":[{"type":"text","text":"Current Weather in Jakarta, ID:\n• Temperature: 29.93°C (feels like 32.7°C)\n• Condition: Broken Clouds\n• Humidity: 60%\n• Pressure: 1008 hPa\n• Wind Speed: 5.82 m/s\n• Visibility: 10.0 km"}],"isError":false}} { metadata: undefined }

@@ -1,0 +1,754 @@
+2025-06-30T00:28:56.183Z [info] [mix_server] Initializing server...
+2025-06-30T00:28:56.191Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:28:56.192Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:28:56.192Z [info] [mix_server] Server transport closed
+2025-06-30T00:28:56.192Z [info] [mix_server] Client transport closed
+2025-06-30T00:28:56.193Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:28:56.193Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T00:30:41.679Z [info] [mix_server] Initializing server...
+2025-06-30T00:30:41.687Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:30:41.687Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:30:41.693Z [info] [mix_server] Server transport closed
+2025-06-30T00:30:41.693Z [info] [mix_server] Client transport closed
+2025-06-30T00:30:41.693Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:30:41.693Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T00:31:02.635Z [info] [mix_server] Initializing server...
+2025-06-30T00:31:02.644Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:31:02.644Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:31:02.645Z [info] [mix_server] Server transport closed
+2025-06-30T00:31:02.645Z [info] [mix_server] Client transport closed
+2025-06-30T00:31:02.645Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:31:02.646Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T00:35:30.304Z [info] [mix_server] Initializing server...
+2025-06-30T00:35:30.314Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:35:30.315Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T00:35:30.320Z [info] [mix_server] Server transport closed
+2025-06-30T00:35:30.320Z [info] [mix_server] Client transport closed
+2025-06-30T00:35:30.321Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:35:30.321Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T00:39:57.805Z [info] [mix_server] Initializing server...
+2025-06-30T00:39:57.812Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T00:39:57.813Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T00:39:57.814Z [info] [mix_server] Server transport closed
+2025-06-30T00:39:57.814Z [info] [mix_server] Client transport closed
+2025-06-30T00:39:57.815Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:39:57.815Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T00:42:15.234Z [info] [mix_server] Initializing server...
+2025-06-30T00:42:15.280Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T00:42:15.281Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T00:42:15.281Z [info] [mix_server] Server transport closed
+2025-06-30T00:42:15.282Z [info] [mix_server] Client transport closed
+2025-06-30T00:42:15.282Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T00:42:15.282Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T03:41:39.361Z [info] [mix_server] Initializing server...
+2025-06-30T03:41:39.367Z [info] [mix_server] Using MCP server command: /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv with args and path: {
+  args: [
+    '--directory',
+    '/Users/macbook/Documents/mcp server/mix_server',
+    'run',
+    'main.py',
+    [length]: 4
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T03:41:39.369Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T03:41:39.370Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T03:41:39.371Z [info] [mix_server] Server transport closed
+2025-06-30T03:41:39.371Z [info] [mix_server] Client transport closed
+2025-06-30T03:41:39.371Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T03:41:39.371Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:01:25.810Z [info] [mix_server] Initializing server...
+2025-06-30T04:01:25.815Z [info] [mix_server] Using MCP server command: /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv with args and path: {
+  args: [
+    '--directory',
+    '/Users/macbook/Documents/mcp server/mix_server',
+    'run',
+    'main.py',
+    [length]: 4
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:01:25.818Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T04:01:25.818Z [error] [mix_server] spawn /Users/macbook/Documents/mcp server/mix_server/.venv/bin/uv ENOENT
+2025-06-30T04:01:25.819Z [info] [mix_server] Server transport closed
+2025-06-30T04:01:25.819Z [info] [mix_server] Client transport closed
+2025-06-30T04:01:25.819Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:01:25.819Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:23:42.955Z [info] [mix_server] Initializing server...
+2025-06-30T04:23:42.966Z [info] [mix_server] Using MCP server command: uv with args and path: {
+  args: [
+    '--directory',
+    '/Users/macbook/Documents/projects/mcp_server',
+    'run',
+    'waether.py',
+    [length]: 4
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:23:42.969Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T04:23:42.969Z [error] [mix_server] spawn uv ENOENT
+2025-06-30T04:23:42.970Z [info] [mix_server] Server transport closed
+2025-06-30T04:23:42.970Z [info] [mix_server] Client transport closed
+2025-06-30T04:23:42.970Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:23:42.971Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:24:48.518Z [info] [mix_server] Initializing server...
+2025-06-30T04:24:48.525Z [info] [mix_server] Using MCP server command: python with args and path: {
+  args: [
+    '--directory',
+    '/Users/macbook/Documents/projects/mcp_server',
+    'run',
+    'weather.py',
+    [length]: 4
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:24:48.532Z [error] [mix_server] spawn python ENOENT
+2025-06-30T04:24:48.532Z [error] [mix_server] spawn python ENOENT
+2025-06-30T04:24:48.533Z [info] [mix_server] Server transport closed
+2025-06-30T04:24:48.533Z [info] [mix_server] Client transport closed
+2025-06-30T04:24:48.533Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:24:48.533Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:29:02.058Z [info] [mix_server] Initializing server...
+2025-06-30T04:29:02.067Z [info] [mix_server] Using MCP server command: python with args and path: {
+  args: [
+    '--directory',
+    '/Users/macbook/Documents/projects/mcp_server',
+    'run',
+    'weather.py',
+    [length]: 4
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:29:02.072Z [error] [mix_server] spawn python ENOENT
+2025-06-30T04:29:02.073Z [error] [mix_server] spawn python ENOENT
+2025-06-30T04:29:02.074Z [info] [mix_server] Server transport closed
+2025-06-30T04:29:02.074Z [info] [mix_server] Client transport closed
+2025-06-30T04:29:02.074Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:29:02.074Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:31:36.355Z [info] [mix_server] Initializing server...
+2025-06-30T04:31:36.361Z [info] [mix_server] Using MCP server command: /usr/local/bin/python3 with args and path: {
+  args: [ 'weather.py', [length]: 1 ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:31:36.362Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:31:36.363Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:31:36.435Z [info] [mix_server] Server transport closed
+2025-06-30T04:31:36.435Z [info] [mix_server] Client transport closed
+2025-06-30T04:31:36.436Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:31:36.436Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:31:36.436Z [info] [mix_server] Client transport closed
+2025-06-30T04:37:41.739Z [info] [mix_server] Shutting down server...
+2025-06-30T04:37:41.739Z [info] [mix_server] Client transport closed
+2025-06-30T04:37:45.200Z [info] [mix_server] Initializing server...
+2025-06-30T04:37:45.205Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [ 'weather.py', [length]: 1 ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:37:45.208Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:37:45.209Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:37:45.231Z [info] [mix_server] Server transport closed
+2025-06-30T04:37:45.231Z [info] [mix_server] Client transport closed
+2025-06-30T04:37:45.231Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:37:45.231Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:37:45.232Z [info] [mix_server] Client transport closed
+2025-06-30T04:43:53.082Z [info] [mix_server] Shutting down server...
+2025-06-30T04:43:53.083Z [info] [mix_server] Client transport closed
+2025-06-30T04:43:56.905Z [info] [mix_server] Initializing server...
+2025-06-30T04:43:56.913Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [ 'weather.py', [length]: 1 ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:43:56.918Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:43:56.919Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:43:56.946Z [info] [mix_server] Server transport closed
+2025-06-30T04:43:56.946Z [info] [mix_server] Client transport closed
+2025-06-30T04:43:56.946Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:43:56.946Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:43:56.946Z [info] [mix_server] Client transport closed
+2025-06-30T04:46:13.009Z [info] [mix_server] Shutting down server...
+2025-06-30T04:46:13.009Z [info] [mix_server] Client transport closed
+2025-06-30T04:46:16.503Z [info] [mix_server] Initializing server...
+2025-06-30T04:46:16.508Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:46:16.510Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:46:16.510Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:47:16.544Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T04:47:16.545Z [info] [mix_server] Client transport closed
+2025-06-30T04:47:16.547Z [info] [mix_server] Server transport closed
+2025-06-30T04:47:16.547Z [info] [mix_server] Client transport closed
+2025-06-30T04:47:16.547Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:47:16.548Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:47:16.663Z [info] [mix_server] Server transport closed
+2025-06-30T04:47:16.663Z [info] [mix_server] Client transport closed
+2025-06-30T04:48:24.401Z [info] [mix_server] Shutting down server...
+2025-06-30T04:48:24.401Z [info] [mix_server] Client transport closed
+2025-06-30T04:48:28.338Z [info] [mix_server] Initializing server...
+2025-06-30T04:48:28.343Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:48:28.346Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:48:28.347Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:49:28.544Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T04:49:28.545Z [info] [mix_server] Client transport closed
+2025-06-30T04:49:28.547Z [info] [mix_server] Server transport closed
+2025-06-30T04:49:28.547Z [info] [mix_server] Client transport closed
+2025-06-30T04:49:28.548Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:49:28.548Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:49:28.736Z [info] [mix_server] Server transport closed
+2025-06-30T04:49:28.736Z [info] [mix_server] Client transport closed
+2025-06-30T04:53:25.703Z [info] [mix_server] Shutting down server...
+2025-06-30T04:53:25.703Z [info] [mix_server] Client transport closed
+2025-06-30T04:53:29.952Z [info] [mix_server] Initializing server...
+2025-06-30T04:53:29.957Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:53:29.961Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:53:29.961Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:53:30.734Z [info] [mix_server] Server transport closed
+2025-06-30T04:53:30.734Z [info] [mix_server] Client transport closed
+2025-06-30T04:53:30.734Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:53:30.734Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:53:30.734Z [info] [mix_server] Client transport closed
+2025-06-30T04:56:02.322Z [info] [mix_server] Shutting down server...
+2025-06-30T04:56:02.323Z [info] [mix_server] Client transport closed
+2025-06-30T04:56:05.217Z [info] [mix_server] Initializing server...
+2025-06-30T04:56:05.222Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T04:56:05.224Z [info] [mix_server] Server started and connected successfully
+2025-06-30T04:56:05.224Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T04:57:05.546Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T04:57:05.547Z [info] [mix_server] Client transport closed
+2025-06-30T04:57:05.549Z [info] [mix_server] Server transport closed
+2025-06-30T04:57:05.549Z [info] [mix_server] Client transport closed
+2025-06-30T04:57:05.550Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T04:57:05.550Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T04:57:05.718Z [info] [mix_server] Server transport closed
+2025-06-30T04:57:05.718Z [info] [mix_server] Client transport closed
+2025-06-30T05:01:56.128Z [info] [mix_server] Shutting down server...
+2025-06-30T05:01:56.128Z [info] [mix_server] Client transport closed
+2025-06-30T05:01:59.650Z [info] [mix_server] Initializing server...
+2025-06-30T05:01:59.657Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:01:59.662Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:01:59.663Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:03:00.547Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T05:03:00.549Z [info] [mix_server] Client transport closed
+2025-06-30T05:03:00.551Z [info] [mix_server] Server transport closed
+2025-06-30T05:03:00.551Z [info] [mix_server] Client transport closed
+2025-06-30T05:03:00.551Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:03:00.552Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:03:00.709Z [info] [mix_server] Server transport closed
+2025-06-30T05:03:00.709Z [info] [mix_server] Client transport closed
+2025-06-30T05:14:45.268Z [info] [mix_server] Shutting down server...
+2025-06-30T05:14:45.268Z [info] [mix_server] Client transport closed
+2025-06-30T05:14:48.500Z [info] [mix_server] Initializing server...
+2025-06-30T05:14:48.506Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:14:48.510Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:14:48.511Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:14:49.600Z [info] [mix_server] Server transport closed
+2025-06-30T05:14:49.600Z [info] [mix_server] Client transport closed
+2025-06-30T05:14:49.601Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:14:49.601Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:14:49.601Z [info] [mix_server] Client transport closed
+2025-06-30T05:15:12.685Z [info] [mix_server] Shutting down server...
+2025-06-30T05:15:12.685Z [info] [mix_server] Client transport closed
+2025-06-30T05:15:15.258Z [info] [mix_server] Initializing server...
+2025-06-30T05:15:15.263Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:15:15.266Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:15:15.267Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:16:15.554Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T05:16:15.555Z [info] [mix_server] Client transport closed
+2025-06-30T05:16:15.557Z [info] [mix_server] Server transport closed
+2025-06-30T05:16:15.558Z [info] [mix_server] Client transport closed
+2025-06-30T05:16:15.558Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:16:15.558Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:16:15.727Z [info] [mix_server] Server transport closed
+2025-06-30T05:16:15.727Z [info] [mix_server] Client transport closed
+2025-06-30T05:21:38.541Z [info] [mix_server] Shutting down server...
+2025-06-30T05:21:38.541Z [info] [mix_server] Client transport closed
+2025-06-30T05:21:43.423Z [info] [mix_server] Initializing server...
+2025-06-30T05:21:43.429Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:21:43.431Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:21:43.432Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:22:43.556Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T05:22:43.557Z [info] [mix_server] Client transport closed
+2025-06-30T05:22:43.559Z [info] [mix_server] Server transport closed
+2025-06-30T05:22:43.560Z [info] [mix_server] Client transport closed
+2025-06-30T05:22:43.560Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:22:43.560Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:22:43.680Z [info] [mix_server] Server transport closed
+2025-06-30T05:22:43.680Z [info] [mix_server] Client transport closed
+2025-06-30T05:45:35.197Z [info] [mix_server] Shutting down server...
+2025-06-30T05:45:35.197Z [info] [mix_server] Client transport closed
+2025-06-30T05:45:39.000Z [info] [mix_server] Initializing server...
+2025-06-30T05:45:39.005Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [ 'weather.py', [length]: 1 ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:45:39.011Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:45:39.013Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:45:39.175Z [info] [mix_server] Server transport closed
+2025-06-30T05:45:39.175Z [info] [mix_server] Client transport closed
+2025-06-30T05:45:39.176Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:45:39.176Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:45:39.176Z [info] [mix_server] Client transport closed
+2025-06-30T05:46:52.581Z [info] [mix_server] Shutting down server...
+2025-06-30T05:46:52.581Z [info] [mix_server] Client transport closed
+2025-06-30T05:46:56.170Z [info] [mix_server] Initializing server...
+2025-06-30T05:46:56.176Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:46:56.179Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:46:56.179Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:46:56.920Z [info] [mix_server] Server transport closed
+2025-06-30T05:46:56.920Z [info] [mix_server] Client transport closed
+2025-06-30T05:46:56.921Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:46:56.921Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:46:56.921Z [info] [mix_server] Client transport closed
+2025-06-30T05:48:45.592Z [info] [mix_server] Shutting down server...
+2025-06-30T05:48:45.593Z [info] [mix_server] Client transport closed
+2025-06-30T05:48:50.310Z [info] [mix_server] Initializing server...
+2025-06-30T05:48:50.317Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:48:50.321Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:48:50.321Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:48:51.192Z [info] [mix_server] Server transport closed
+2025-06-30T05:48:51.192Z [info] [mix_server] Client transport closed
+2025-06-30T05:48:51.192Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:48:51.192Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:48:51.192Z [info] [mix_server] Client transport closed
+2025-06-30T05:51:45.840Z [info] [mix_server] Shutting down server...
+2025-06-30T05:51:45.841Z [info] [mix_server] Client transport closed
+2025-06-30T05:51:50.018Z [info] [mix_server] Initializing server...
+2025-06-30T05:51:50.024Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:51:50.030Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:51:50.031Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T05:52:50.514Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T05:52:50.515Z [info] [mix_server] Client transport closed
+2025-06-30T05:52:50.517Z [info] [mix_server] Server transport closed
+2025-06-30T05:52:50.517Z [info] [mix_server] Client transport closed
+2025-06-30T05:52:50.517Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T05:52:50.518Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T05:52:50.663Z [info] [mix_server] Server transport closed
+2025-06-30T05:52:50.663Z [info] [mix_server] Client transport closed
+2025-06-30T05:59:53.409Z [info] [mix_server] Shutting down server...
+2025-06-30T05:59:53.410Z [info] [mix_server] Client transport closed
+2025-06-30T05:59:58.123Z [info] [mix_server] Initializing server...
+2025-06-30T05:59:58.128Z [info] [mix_server] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather.py',
+    '--port',
+    '8010',
+    [length]: 3
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T05:59:58.131Z [info] [mix_server] Server started and connected successfully
+2025-06-30T05:59:58.132Z [info] [mix_server] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T06:00:58.510Z [info] [mix_server] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}}
+2025-06-30T06:00:58.511Z [info] [mix_server] Client transport closed
+2025-06-30T06:00:58.515Z [info] [mix_server] Server transport closed
+2025-06-30T06:00:58.515Z [info] [mix_server] Client transport closed
+2025-06-30T06:00:58.515Z [info] [mix_server] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T06:00:58.516Z [error] [mix_server] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T06:00:58.647Z [info] [mix_server] Server transport closed
+2025-06-30T06:00:58.647Z [info] [mix_server] Client transport closed
+2025-06-30T06:11:40.771Z [info] [mix_server] Shutting down server...
+2025-06-30T06:11:40.772Z [info] [mix_server] Client transport closed
+2025-06-30T06:11:45.990Z [info] [weather] Initializing server...
+2025-06-30T06:11:45.997Z [info] [weather] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T06:11:45.999Z [info] [weather] Server started and connected successfully
+2025-06-30T06:11:46.000Z [info] [weather] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T06:11:46.780Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":0,"result":{"protocolVersion":"2024-11-05","capabilities":{"experimental":{},"tools":{"listChanged":false}},"serverInfo":{"name":"weather-server","version":"1.9.4"}}}
+2025-06-30T06:11:46.781Z [info] [weather] Message from client: {"method":"notifications/initialized","jsonrpc":"2.0"}
+2025-06-30T06:11:46.782Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":1}
+2025-06-30T06:11:46.782Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":2}
+2025-06-30T06:11:46.782Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":3}
+2025-06-30T06:11:46.784Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":1,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:11:46.786Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":2,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:11:46.788Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":3,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:11:46.789Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":4}
+2025-06-30T06:11:46.790Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":4,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:11:48.855Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":5}
+2025-06-30T06:11:48.855Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":6}
+2025-06-30T06:11:48.855Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":7}
+2025-06-30T06:11:48.857Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":5,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:11:48.857Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":6,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:11:48.858Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":7,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:11:48.894Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":8}
+2025-06-30T06:11:48.903Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":8,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:12:22.229Z [info] [weather] Message from client: {"method":"tools/call","params":{"name":"get_current_weather","arguments":{"city":"Bogor"}},"jsonrpc":"2.0","id":9}
+2025-06-30T06:12:22.273Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":10}
+2025-06-30T06:12:22.273Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":11}
+2025-06-30T06:12:22.273Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":12}
+2025-06-30T06:12:22.275Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":10,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:12:22.276Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":11,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:12:22.276Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":12,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:12:22.307Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":13}
+2025-06-30T06:12:22.312Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":13,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:12:22.354Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":9,"result":{"content":[{"type":"text","text":"Current Weather in Bogor, ID:\n• Temperature: 30.14°C (feels like 34.19°C)\n• Condition: Broken Clouds\n• Humidity: 65%\n• Pressure: 1009 hPa\n• Wind Speed: 3.07 m/s\n• Visibility: 10.0 km"}],"isError":false}}
+2025-06-30T06:13:01.387Z [info] [weather] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Bogor"}},"jsonrpc":"2.0","id":14}
+2025-06-30T06:13:01.424Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":15}
+2025-06-30T06:13:01.424Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":16}
+2025-06-30T06:13:01.424Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":17}
+2025-06-30T06:13:01.426Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":15,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:13:01.426Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":16,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:13:01.427Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":17,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:13:01.444Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":18}
+2025-06-30T06:13:01.445Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":18,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:13:01.528Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":14,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Bogor, ID:\n\n• 2025-06-30 09:00:00: 30.3°C, Light Rain, Humidity: 69%\n• 2025-06-30 12:00:00: 29.07°C, Light Rain, Humidity: 84%\n• 2025-06-30 15:00:00: 27.51°C, Light Rain, Humidity: 94%\n• 2025-06-30 18:00:00: 26.92°C, Light Rain, Humidity: 93%\n• 2025-06-30 21:00:00: 27.03°C, Overcast Clouds, Humidity: 91%\n• 2025-07-01 00:00:00: 28.95°C, Overcast Clouds, Humidity: 88%\n• 2025-07-01 03:00:00: 25.77°C, Overcast Clouds, Humidity: 79%\n• 2025-07-01 06:00:00: 28.37°C, Light Rain, Humidity: 69%\n• 2025-07-01 09:00:00: 27.27°C, Light Rain, Humidity: 77%\n• 2025-07-01 12:00:00: 24.53°C, Light Rain, Humidity: 90%\n• 2025-07-01 15:00:00: 23.76°C, Light Rain, Humidity: 93%\n• 2025-07-01 18:00:00: 23.44°C, Light Rain, Humidity: 93%\n• 2025-07-01 21:00:00: 23.56°C, Overcast Clouds, Humidity: 90%\n• 2025-07-02 00:00:00: 24.25°C, Overcast Clouds, Humidity: 87%\n• 2025-07-02 03:00:00: 28.14°C, Overcast Clouds, Humidity: 71%\n• 2025-07-02 06:00:00: 30.13°C, Light Rain, Humidity: 63%\n• 2025-07-02 09:00:00: 28.07°C, Moderate Rain, Humidity: 74%\n• 2025-07-02 12:00:00: 25.13°C, Light Rain, Humidity: 91%\n• 2025-07-02 15:00:00: 24.47°C, Light Rain, Humidity: 94%\n• 2025-07-02 18:00:00: 23.51°C, Overcast Clouds, Humidity: 95%\n"}],"isError":false}}
+2025-06-30T06:17:08.824Z [info] [weather] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Jombang"}},"jsonrpc":"2.0","id":19}
+2025-06-30T06:17:09.012Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":19,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Jombang, ID:\n\n• 2025-06-30 09:00:00: 30.94°C, Light Rain, Humidity: 66%\n• 2025-06-30 12:00:00: 29°C, Broken Clouds, Humidity: 79%\n• 2025-06-30 15:00:00: 26.44°C, Overcast Clouds, Humidity: 90%\n• 2025-06-30 18:00:00: 25.28°C, Overcast Clouds, Humidity: 91%\n• 2025-06-30 21:00:00: 25.53°C, Broken Clouds, Humidity: 91%\n• 2025-07-01 00:00:00: 26.9°C, Broken Clouds, Humidity: 84%\n• 2025-07-01 03:00:00: 29.67°C, Few Clouds, Humidity: 63%\n• 2025-07-01 06:00:00: 31.83°C, Few Clouds, Humidity: 53%\n• 2025-07-01 09:00:00: 28.61°C, Light Rain, Humidity: 69%\n• 2025-07-01 12:00:00: 24.66°C, Light Rain, Humidity: 89%\n• 2025-07-01 15:00:00: 23.62°C, Overcast Clouds, Humidity: 93%\n• 2025-07-01 18:00:00: 23.17°C, Overcast Clouds, Humidity: 92%\n• 2025-07-01 21:00:00: 22.69°C, Broken Clouds, Humidity: 91%\n• 2025-07-02 00:00:00: 24.44°C, Broken Clouds, Humidity: 85%\n• 2025-07-02 03:00:00: 30.03°C, Few Clouds, Humidity: 63%\n• 2025-07-02 06:00:00: 31.97°C, Light Rain, Humidity: 55%\n• 2025-07-02 09:00:00: 27.73°C, Light Rain, Humidity: 79%\n• 2025-07-02 12:00:00: 24.68°C, Light Rain, Humidity: 91%\n• 2025-07-02 15:00:00: 23.84°C, Overcast Clouds, Humidity: 94%\n• 2025-07-02 18:00:00: 23.18°C, Overcast Clouds, Humidity: 93%\n"}],"isError":false}}
+2025-06-30T06:21:08.074Z [info] [weather] Message from client: {"method":"tools/call","params":{"name":"get_weather_forecast","arguments":{"city":"Salatiga"}},"jsonrpc":"2.0","id":20}
+2025-06-30T06:21:08.208Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":20,"result":{"content":[{"type":"text","text":"5-Day Weather Forecast for Salatiga, ID:\n\n• 2025-06-30 09:00:00: 28.19°C, Light Rain, Humidity: 67%\n• 2025-06-30 12:00:00: 26.7°C, Broken Clouds, Humidity: 80%\n• 2025-06-30 15:00:00: 25.13°C, Scattered Clouds, Humidity: 91%\n• 2025-06-30 18:00:00: 24.39°C, Scattered Clouds, Humidity: 95%\n• 2025-06-30 21:00:00: 24.59°C, Scattered Clouds, Humidity: 93%\n• 2025-07-01 00:00:00: 26.21°C, Scattered Clouds, Humidity: 82%\n• 2025-07-01 03:00:00: 27.96°C, Clear Sky, Humidity: 57%\n• 2025-07-01 06:00:00: 27.81°C, Light Rain, Humidity: 62%\n• 2025-07-01 09:00:00: 25.64°C, Light Rain, Humidity: 77%\n• 2025-07-01 12:00:00: 21.97°C, Light Rain, Humidity: 91%\n• 2025-07-01 15:00:00: 21.41°C, Light Rain, Humidity: 92%\n• 2025-07-01 18:00:00: 21.12°C, Overcast Clouds, Humidity: 95%\n• 2025-07-01 21:00:00: 20.78°C, Overcast Clouds, Humidity: 96%\n• 2025-07-02 00:00:00: 22.42°C, Overcast Clouds, Humidity: 91%\n• 2025-07-02 03:00:00: 27.54°C, Light Rain, Humidity: 67%\n• 2025-07-02 06:00:00: 26.9°C, Light Rain, Humidity: 75%\n• 2025-07-02 09:00:00: 24.49°C, Moderate Rain, Humidity: 90%\n• 2025-07-02 12:00:00: 21.58°C, Moderate Rain, Humidity: 96%\n• 2025-07-02 15:00:00: 21.45°C, Broken Clouds, Humidity: 94%\n• 2025-07-02 18:00:00: 20.77°C, Overcast Clouds, Humidity: 95%\n"}],"isError":false}}
+2025-06-30T06:23:01.397Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":21}
+2025-06-30T06:23:01.407Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":21,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:23:01.465Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":22}
+2025-06-30T06:23:01.470Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":22,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:24:53.894Z [info] [weather] Shutting down server...
+2025-06-30T06:24:53.894Z [info] [weather] Client transport closed
+2025-06-30T06:24:53.896Z [info] [weather] Server transport closed
+2025-06-30T06:24:53.896Z [info] [weather] Client transport closed
+2025-06-30T06:24:53.896Z [info] [weather] Server transport closed (intentional shutdown)
+2025-06-30T06:24:53.896Z [info] [weather] Client transport closed
+2025-06-30T06:24:54.002Z [info] [weather] Server transport closed
+2025-06-30T06:24:54.002Z [info] [weather] Client transport closed
+2025-06-30T06:24:57.302Z [info] [weather] Initializing server...
+2025-06-30T06:24:57.308Z [info] [weather] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T06:24:57.309Z [info] [weather] Server started and connected successfully
+2025-06-30T06:24:57.310Z [info] [weather] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T06:24:57.966Z [info] [weather] Server transport closed
+2025-06-30T06:24:57.966Z [info] [weather] Client transport closed
+2025-06-30T06:24:57.967Z [info] [weather] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-06-30T06:24:57.967Z [error] [weather] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-06-30T06:24:57.967Z [info] [weather] Client transport closed
+2025-06-30T06:26:03.706Z [info] [weather] Shutting down server...
+2025-06-30T06:26:03.706Z [info] [weather] Client transport closed
+2025-06-30T06:26:06.836Z [info] [weather] Initializing server...
+2025-06-30T06:26:06.841Z [info] [weather] Using MCP server command: /Users/macbook/miniconda3/envs/binar/bin/python with args and path: {
+  args: [
+    '/Users/macbook/Documents/projects/mcp_server/weather_fixed.py',
+    [length]: 1
+  ],
+  paths: [
+    '/usr/local/bin',
+    '/opt/homebrew/bin',
+    '/usr/bin',
+    '/usr/bin',
+    '/bin',
+    '/usr/sbin',
+    '/sbin',
+    [length]: 7
+  ]
+}
+2025-06-30T06:26:06.843Z [info] [weather] Server started and connected successfully
+2025-06-30T06:26:06.844Z [info] [weather] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-06-30T06:26:07.563Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":0,"result":{"protocolVersion":"2024-11-05","capabilities":{"experimental":{},"tools":{"listChanged":false}},"serverInfo":{"name":"weather-server","version":"1.9.4"}}}
+2025-06-30T06:26:07.564Z [info] [weather] Message from client: {"method":"notifications/initialized","jsonrpc":"2.0"}
+2025-06-30T06:26:07.566Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":1}
+2025-06-30T06:26:07.566Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":2}
+2025-06-30T06:26:07.566Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":3}
+2025-06-30T06:26:07.568Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":1,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:26:07.568Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":2,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:26:07.568Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":3,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:26:07.570Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":4}
+2025-06-30T06:26:07.571Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":4,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:26:08.350Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":5}
+2025-06-30T06:26:08.350Z [info] [weather] Message from client: {"method":"tools/list","params":{},"jsonrpc":"2.0","id":6}
+2025-06-30T06:26:08.350Z [info] [weather] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":7}
+2025-06-30T06:26:08.352Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":5,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:26:08.352Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":6,"result":{"tools":[{"name":"get_current_weather","description":"Get current weather information for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get weather for","default":"Jakarta"}},"required":["city"]}},{"name":"get_weather_forecast","description":"Get 5-day weather forecast for a specific city","inputSchema":{"type":"object","properties":{"city":{"type":"string","description":"Name of the city to get forecast for","default":"Jakarta"}},"required":["city"]}}]}}
+2025-06-30T06:26:08.353Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":7,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:26:08.395Z [info] [weather] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":8}
+2025-06-30T06:26:08.411Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":8,"error":{"code":-32601,"message":"Method not found"}}
+2025-06-30T06:26:20.423Z [info] [weather] Message from client: {"method":"tools/call","params":{"name":"get_current_weather","arguments":{"city":"Jakarta"}},"jsonrpc":"2.0","id":9}
+2025-06-30T06:26:20.495Z [info] [weather] Message from server: {"jsonrpc":"2.0","id":9,"result":{"content":[{"type":"text","text":"Current Weather in Jakarta, ID:\n• Temperature: 29.93°C (feels like 32.7°C)\n• Condition: Broken Clouds\n• Humidity: 60%\n• Pressure: 1008 hPa\n• Wind Speed: 5.82 m/s\n• Visibility: 10.0 km"}],"isError":false}}
